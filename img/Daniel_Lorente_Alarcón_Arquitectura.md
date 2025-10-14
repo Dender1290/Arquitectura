@@ -10,11 +10,11 @@ mejorando la eficiencia energética y el rendimiento.
  ### Representación visual 
 
 Este diagrama muestra los bloques principales de la arquitectura Intel Meteor Lake, basada en empaquetado Foveros:
-
+img/2880be14-082c-4108-aee8-3500ee7540ac.jpg
 
 **O1. Lista de bloques Ejemplo**- CPU (…)- GPU/NPU (…)- Memoria (DDR/HBM/unificada) (…)- E/S (PCIe/CXL/NoC) (…)
  ### CAPTURA 1 — Búsqueda avanzada (con tu nombre y grupo)
- ### CAPTURA 1 — Búsqueda avanzada (con tu nombre y grupo)
+
 
 La siguiente captura muestra una búsqueda avanzada realizada en Google, incluyendo mi nombre y grupo,
 para encontrar documentación oficial sobre la arquitectura Intel Foveros:
