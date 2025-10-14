@@ -33,13 +33,13 @@ para encontrar documentación oficial sobre la arquitectura Intel Foveros:
  Nota: Crea un glosario para explicar que teminos que no controles. Por si
  te pregunto.  
  GLOSARIO:
--ISA (Instruction Set Architecture): Conjunto de instrucciones que puede ejecutar un procesador. x86 es la más común en PCs.
--DDR / LPDDR: Tipos de memoria RAM. LPDDR es más eficiente y se usa en dispositivos móviles y empaquetados modernos.
--Interconexión vertical (TSV, FDI): Tecnología que permite conectar chips apilados en 3D, reduciendo latencia y consumo.
--Chiplet / Tile: Bloques funcionales independientes (CPU, GPU, etc.) que se ensamblan en un solo paquete.
--Aceleradores: Componentes especializados para tareas como gráficos (GPU) o inteligencia artificial (NPU).
--Monolítico: Diseño de chip único con todos los componentes integrados en una sola pieza de silicio.
--Disgregado / Disaggregated: Diseño modular con múltiples chips especializados conectados entre sí.
+|-ISA (Instruction Set Architecture):| Conjunto de instrucciones que puede ejecutar un procesador. x86 es la más común en PCs.
+|-DDR / LPDDR: Tipos de memoria RAM.| LPDDR es más eficiente y se usa en dispositivos móviles y empaquetados modernos.
+|-Interconexión vertical (TSV, FDI):| Tecnología que permite conectar chips apilados en 3D, reduciendo latencia y consumo.
+|-Chiplet / Tile:| Bloques funcionales independientes (CPU, GPU, etc.) que se ensamblan en un solo paquete.
+|-Aceleradores:| Componentes especializados para tareas como gráficos (GPU) o inteligencia artificial (NPU).
+|-Monolítico:| Diseño de chip único con todos los componentes integrados en una sola pieza de silicio.
+|-Disgregado / Disaggregated:| Diseño modular con múltiples chips especializados conectados entre sí.
 ### CAPTURA 2 — Fuente oficial/técnica
 
  `![fuente](img/02_fuente.png)`--
