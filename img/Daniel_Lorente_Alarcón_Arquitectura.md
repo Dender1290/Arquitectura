@@ -9,10 +9,19 @@ como Meteor Lake y Ponte Vecchio. Su principal ventaja es la integración hetero
 mejorando la eficiencia energética y el rendimiento.
  ### Representación visual 
 
+Este diagrama muestra los bloques principales de la arquitectura Intel Meteor Lake, basada en empaquetado Foveros:
+
+![visual](img/visual_meteor_lake.png)
 
 **O1. Lista de bloques Ejemplo**- CPU (…)- GPU/NPU (…)- Memoria (DDR/HBM/unificada) (…)- E/S (PCIe/CXL/NoC) (…)
  ### CAPTURA 1 — Búsqueda avanzada (con tu nombre y grupo)
- `![busqueda](img/01_busqueda.png)`--
+ ### CAPTURA 1 — Búsqueda avanzada (con tu nombre y grupo)
+
+La siguiente captura muestra una búsqueda avanzada realizada en Google, incluyendo mi nombre y grupo,
+para encontrar documentación oficial sobre la arquitectura Intel Foveros:
+
+![busqueda](img/01_busqueda.png)
+
 ## B) Intermedio — Problema que mejora + comparativa
  **Problema que mejora (1–2 líneas):** …
 **Tabla comparativa (≥3 filas)**
