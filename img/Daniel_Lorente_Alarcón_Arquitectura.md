@@ -41,7 +41,7 @@ para encontrar documentación oficial sobre la arquitectura Intel Foveros:
 |-Monolítico:| Diseño de chip único con todos los componentes integrados en una sola pieza de silicio.
 |-Disgregado / Disaggregated:| Diseño modular con múltiples chips especializados conectados entre sí.
 ### CAPTURA 2 — Fuente oficial/técnica
-
+img/513e74d2-c55d-45c7-ae7c-62ce61d74a69.jpg
  `![fuente](img/02_fuente.png)`--
 ## C) Curioso — Dato/cifra + evidencia
  **Dato/cifra (1 frase):** La fuente indica que la tecnología Foveros Direct utilizada en Meteor Lake alcanza una densidad de interconexión superior a 10,000 bumps por milímetro cuadrado con un consumo energético inferior a 0.05 picojulios por bit.
