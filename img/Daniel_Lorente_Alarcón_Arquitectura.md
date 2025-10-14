@@ -20,7 +20,6 @@ Este diagrama muestra los bloques principales de la arquitectura Intel Meteor La
 La siguiente captura muestra una búsqueda avanzada realizada en Google, incluyendo mi nombre y grupo,
 para encontrar documentación oficial sobre la arquitectura Intel Foveros:
 
-![busqueda](img/01_busqueda.png)
 
 ## B) Intermedio — Problema que mejora + comparativa
  **Problema que mejora (1–2 líneas):** …
