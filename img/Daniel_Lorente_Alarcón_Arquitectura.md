@@ -8,7 +8,8 @@ verticalmente en lugar de colocarlos uno al lado del otro. Se utiliza en procesa
 como Meteor Lake y Ponte Vecchio. Su principal ventaja es la integración heterogénea: combina CPU, GPU, aceleradores y memoria en un solo paquete,
 mejorando la eficiencia energética y el rendimiento.
  ### Representación visual 
- 
+
+
 **O1. Lista de bloques Ejemplo**- CPU (…)- GPU/NPU (…)- Memoria (DDR/HBM/unificada) (…)- E/S (PCIe/CXL/NoC) (…)
  ### CAPTURA 1 — Búsqueda avanzada (con tu nombre y grupo)
  `![busqueda](img/01_busqueda.png)`--
