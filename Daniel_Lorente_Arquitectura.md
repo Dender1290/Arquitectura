@@ -69,3 +69,10 @@ Este diagrama muestra los bloques principales de la arquitectura Intel Meteor La
 
 1. https://www.hc34.hotchips.org/assets/program/conference/day2/Mobile%20and%20Edge/Meteor_Lake_Hotchips%20_%20Wilfred%20_%20final_submit%20(1).pdf
 2. https://www.bing.com/search?q=site%3Aintel.com+Meteor+Lake+architecture
+3. Intel Foveros Packaging Technology (intel.com)
+4. Intel Meteor Lake Overview (intel.com)
+5. Hot Chips 2023 – Intel Meteor Lake Presentation (hotchips.org)
+6. Intel Glossary of Terms
+7. Wikipedia – Foveros
+8. TechInsights – Meteor Lake Analysis
+
